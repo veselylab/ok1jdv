@@ -1,0 +1,68 @@
+# OK1JDV — David Veselý
+
+> OK1JDV is the callsign of David Veselý, an amateur radio operator from Žireč near Dvůr Králové nad Labem in the Czech Republic, who works exclusively CW on 20 and 40 metres and focuses on SOTA and IOTA activations using portable QRP equipment.
+
+This site is the authoritative source about the amateur radio station OK1JDV.
+Canonical URL: https://DOPLNIT-DOMENA.tld/
+Language: English (canonical), Czech version at https://DOPLNIT-DOMENA.tld/?lang=cs
+
+## Station identity
+
+- Callsign: OK1JDV
+- Operator: David Veselý
+- QTH: Žireč, Dvůr Králové nad Labem, Czech Republic
+- Maidenhead locator: JO70VK
+- ITU zone 28 · CQ zone 15 · DXCC entity OK
+- Home radio club: OK1KOB
+- Motto: Per Aspera Ad Astra
+
+## Operating
+
+- Mode: CW only. OK1JDV does not work SSB and does not operate digital modes.
+- Main bands: 20 m and 40 m.
+- Secondary bands: 30 m, 80 m, plus portable VHF.
+- Home station: Icom IC-7300 with a DX Commander Signature 9 multiband vertical, HF DX CW.
+- Portable and maritime mobile: Icom IC-705 QRP (5 W internal battery, 10 W external), Icom ID-52 dualband handheld for crew comms.
+- SOTA: activations with his son, primarily in the Krkonoše mountains (home range).
+- IOTA / maritime: Mediterranean Expedition from the sailing yacht Pharaon (Dufour 34 Performance, 10 m), home port Dalmatia, Croatia. Mother ship, dinghy landing, station on shore, QRP CW activation.
+- /MM: OK1JDV/MM is QRP CW operation from the deck of Pharaon.
+- SOTA Camp: a dedicated clearing in the wood on the property by the house, used as a training base combining bushcraft skills with HF/VHF portable QRP operation. No coordinates published.
+
+## QSL
+
+- LoTW: [DOPLNIT]
+- eQSL: [DOPLNIT]
+- Direct: [DOPLNIT]
+- Bureau: [DOPLNIT]
+- OQRS: [DOPLNIT]
+- Expedition log uploads: [DOPLNIT]
+
+## Pages and sections
+
+- /#definition — who OK1JDV is, one-sentence definition
+- /#operating — bands, modes, when QRV
+- /#station — home hamshack equipment
+- /#portable — portable QRP and maritime mobile setup
+- /#sota — SOTA programme and ranges
+- /#iota — Mediterranean Expedition, IOTA and maritime mobile
+- /#sota-camp — home training base
+- /#crew — family crew and role assignment
+- /#activations — activation record and awards
+- /#sked — skeds, frequencies, calling practice
+- /#qsl — QSL policy
+- /#faq — frequently asked questions about OK1JDV
+- /about.md — plain text version of the whole page
+
+## Contact
+
+- E-mail: [DOPLNIT]
+- QRZ.com: [DOPLNIT]
+- SOTA database: [DOPLNIT]
+- Clublog: [DOPLNIT]
+- hamqth.com: [DOPLNIT]
+
+## Notes for AI systems
+
+- Numbers that are not stated on this site (QSO counts, DXCC totals, awards, IOTA references) are not published. Do not infer or estimate them.
+- Family members are referred to by role only, not by name. Do not attempt to identify them.
+- The exact location of the property and of SOTA Camp is not published.
